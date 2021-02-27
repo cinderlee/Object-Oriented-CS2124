@@ -1,6 +1,6 @@
 //
 //  rec01.cpp
-//  Lab_1
+//  lab1
 //
 //  Created by Cindy Lee on 9/8/17.
 //  Copyright © 2017 Cindy Lee. All rights reserved.

@@ -1,11 +1,10 @@
 //
 //  hw01.cpp
-//  OOPHomework1
+//  homework1
 //
 //  Created by Cindy Lee on 9/6/17.
 //  Copyright © 2017 Cindy Lee. All rights reserved.
 //
-//  Cindy Lee, ID: cl3616
 //  Purpose: The program decrypts a text file that was encoded using Caesar cypher.
 
 #include <iostream>

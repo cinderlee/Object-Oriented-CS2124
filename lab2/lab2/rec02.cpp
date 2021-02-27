@@ -1,6 +1,6 @@
 //
 //  rec02.cpp
-//  OOP Lab 2
+//  lab2
 //
 //  Created by Cindy Lee on 9/15/17.
 //  Copyright © 2017 Cindy Lee. All rights reserved.
