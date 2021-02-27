@@ -46,7 +46,7 @@ int main() {
         }
         
         // Battle command: commence battle
-        else if (command == "Battle"){
+        else if (command == "Battle") {
             string warriorOne;
             string warriorTwo;
             medievalFile >> warriorOne >> warriorTwo;
@@ -72,7 +72,7 @@ void addWarrior(vector<Warrior>& warriors, const string& name, int strength) {
     warriors.push_back(newWarrior);
 }
 
-void battle (vector <Warrior>& warriors, const string& warriorOne, const string& warriorTwo) {
+void battle(vector <Warrior>& warriors, const string& warriorOne, const string& warriorTwo) {
     /*
      Commences battle between two warriors if possible
      */

@@ -23,7 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		00EA86011F77293B00F1CE87 /* Homework 3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Homework 3"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00ADC84B25E7546E00D6F436 /* warriors.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = warriors.txt; sourceTree = "<group>"; };
+		00EA86011F77293B00F1CE87 /* homework3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homework3; sourceTree = BUILT_PRODUCTS_DIR; };
 		00EA86041F77293B00F1CE87 /* hw03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hw03.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +42,7 @@
 		00EA85F81F77293B00F1CE87 = {
 			isa = PBXGroup;
 			children = (
-				00EA86031F77293B00F1CE87 /* Homework 3 */,
+				00EA86031F77293B00F1CE87 /* homework3 */,
 				00EA86021F77293B00F1CE87 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +50,26 @@
 		00EA86021F77293B00F1CE87 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				00EA86011F77293B00F1CE87 /* Homework 3 */,
+				00EA86011F77293B00F1CE87 /* homework3 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		00EA86031F77293B00F1CE87 /* Homework 3 */ = {
+		00EA86031F77293B00F1CE87 /* homework3 */ = {
 			isa = PBXGroup;
 			children = (
 				00EA86041F77293B00F1CE87 /* hw03.cpp */,
+				00ADC84B25E7546E00D6F436 /* warriors.txt */,
 			);
-			path = "Homework 3";
+			path = homework3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00EA86001F77293B00F1CE87 /* Homework 3 */ = {
+		00EA86001F77293B00F1CE87 /* homework3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00EA86081F77293B00F1CE87 /* Build configuration list for PBXNativeTarget "Homework 3" */;
+			buildConfigurationList = 00EA86081F77293B00F1CE87 /* Build configuration list for PBXNativeTarget "homework3" */;
 			buildPhases = (
 				00EA85FD1F77293B00F1CE87 /* Sources */,
 				00EA85FE1F77293B00F1CE87 /* Frameworks */,
@@ -77,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Homework 3";
+			name = homework3;
 			productName = "Homework 3";
-			productReference = 00EA86011F77293B00F1CE87 /* Homework 3 */;
+			productReference = 00EA86011F77293B00F1CE87 /* homework3 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 00EA85FC1F77293B00F1CE87 /* Build configuration list for PBXProject "Homework 3" */;
+			buildConfigurationList = 00EA85FC1F77293B00F1CE87 /* Build configuration list for PBXProject "homework3" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				00EA86001F77293B00F1CE87 /* Homework 3 */,
+				00EA86001F77293B00F1CE87 /* homework3 */,
 			);
 		};
 /* End PBXProject section */
@@ -248,7 +250,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00EA85FC1F77293B00F1CE87 /* Build configuration list for PBXProject "Homework 3" */ = {
+		00EA85FC1F77293B00F1CE87 /* Build configuration list for PBXProject "homework3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00EA86061F77293B00F1CE87 /* Debug */,
@@ -257,7 +259,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		00EA86081F77293B00F1CE87 /* Build configuration list for PBXNativeTarget "Homework 3" */ = {
+		00EA86081F77293B00F1CE87 /* Build configuration list for PBXNativeTarget "homework3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00EA86091F77293B00F1CE87 /* Debug */,
