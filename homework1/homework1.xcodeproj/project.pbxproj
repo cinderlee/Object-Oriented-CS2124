@@ -23,8 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		009D75AE1F60F00A00DE2715 /* OOPHomework1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OOPHomework1; sourceTree = BUILT_PRODUCTS_DIR; };
+		009D75AE1F60F00A00DE2715 /* homework1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homework1; sourceTree = BUILT_PRODUCTS_DIR; };
 		009D75B11F60F00A00DE2715 /* hw01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hw01.cpp; sourceTree = "<group>"; };
+		00ADC84E25E7555900D6F436 /* encrypted.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = encrypted.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +42,7 @@
 		009D75A51F60F00A00DE2715 = {
 			isa = PBXGroup;
 			children = (
-				009D75B01F60F00A00DE2715 /* OOPHomework1 */,
+				009D75B01F60F00A00DE2715 /* homework1 */,
 				009D75AF1F60F00A00DE2715 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +50,26 @@
 		009D75AF1F60F00A00DE2715 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				009D75AE1F60F00A00DE2715 /* OOPHomework1 */,
+				009D75AE1F60F00A00DE2715 /* homework1 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		009D75B01F60F00A00DE2715 /* OOPHomework1 */ = {
+		009D75B01F60F00A00DE2715 /* homework1 */ = {
 			isa = PBXGroup;
 			children = (
+				00ADC84E25E7555900D6F436 /* encrypted.txt */,
 				009D75B11F60F00A00DE2715 /* hw01.cpp */,
 			);
-			path = OOPHomework1;
+			path = homework1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		009D75AD1F60F00A00DE2715 /* OOPHomework1 */ = {
+		009D75AD1F60F00A00DE2715 /* homework1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 009D75B51F60F00A00DE2715 /* Build configuration list for PBXNativeTarget "OOPHomework1" */;
+			buildConfigurationList = 009D75B51F60F00A00DE2715 /* Build configuration list for PBXNativeTarget "homework1" */;
 			buildPhases = (
 				009D75AA1F60F00A00DE2715 /* Sources */,
 				009D75AB1F60F00A00DE2715 /* Frameworks */,
@@ -77,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = OOPHomework1;
+			name = homework1;
 			productName = OOPHomework1;
-			productReference = 009D75AE1F60F00A00DE2715 /* OOPHomework1 */;
+			productReference = 009D75AE1F60F00A00DE2715 /* homework1 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,11 +99,12 @@
 					};
 				};
 			};
-			buildConfigurationList = 009D75A91F60F00A00DE2715 /* Build configuration list for PBXProject "OOPHomework1" */;
+			buildConfigurationList = 009D75A91F60F00A00DE2715 /* Build configuration list for PBXProject "homework1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 009D75A51F60F00A00DE2715;
@@ -109,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				009D75AD1F60F00A00DE2715 /* OOPHomework1 */,
+				009D75AD1F60F00A00DE2715 /* homework1 */,
 			);
 		};
 /* End PBXProject section */
@@ -232,7 +235,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		009D75A91F60F00A00DE2715 /* Build configuration list for PBXProject "OOPHomework1" */ = {
+		009D75A91F60F00A00DE2715 /* Build configuration list for PBXProject "homework1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				009D75B31F60F00A00DE2715 /* Debug */,
@@ -241,7 +244,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		009D75B51F60F00A00DE2715 /* Build configuration list for PBXNativeTarget "OOPHomework1" */ = {
+		009D75B51F60F00A00DE2715 /* Build configuration list for PBXNativeTarget "homework1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				009D75B61F60F00A00DE2715 /* Debug */,

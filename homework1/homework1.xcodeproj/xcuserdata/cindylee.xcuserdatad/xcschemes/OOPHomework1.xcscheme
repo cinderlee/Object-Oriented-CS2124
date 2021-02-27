@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "009D75AD1F60F00A00DE2715"
-               BuildableName = "OOPHomework1"
-               BlueprintName = "OOPHomework1"
-               ReferencedContainer = "container:OOPHomework1.xcodeproj">
+               BuildableName = "homework1"
+               BlueprintName = "homework1"
+               ReferencedContainer = "container:homework1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,19 +27,17 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <Testables>
-      </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "009D75AD1F60F00A00DE2715"
-            BuildableName = "OOPHomework1"
-            BlueprintName = "OOPHomework1"
-            ReferencedContainer = "container:OOPHomework1.xcodeproj">
+            BuildableName = "homework1"
+            BlueprintName = "homework1"
+            ReferencedContainer = "container:homework1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
+      <Testables>
+      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,7 +45,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/cindylee/Desktop/OOPHomework1/OOPHomework1"
+      customWorkingDirectory = "/Users/cindylee/Documents/GitHub/Object-Oriented-CS2124/homework1/homework1"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -57,28 +55,27 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "009D75AD1F60F00A00DE2715"
-            BuildableName = "OOPHomework1"
-            BlueprintName = "OOPHomework1"
-            ReferencedContainer = "container:OOPHomework1.xcodeproj">
+            BuildableName = "homework1"
+            BlueprintName = "homework1"
+            ReferencedContainer = "container:homework1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
-      useCustomWorkingDirectory = "NO"
+      useCustomWorkingDirectory = "YES"
+      customWorkingDirectory = "/Users/cindylee/Documents/GitHub/Object-Oriented-CS2124/OOPHomework1/OOPHomework1"
       debugDocumentVersioning = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "009D75AD1F60F00A00DE2715"
-            BuildableName = "OOPHomework1"
-            BlueprintName = "OOPHomework1"
-            ReferencedContainer = "container:OOPHomework1.xcodeproj">
+            BuildableName = "homework1"
+            BlueprintName = "homework1"
+            ReferencedContainer = "container:homework1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
