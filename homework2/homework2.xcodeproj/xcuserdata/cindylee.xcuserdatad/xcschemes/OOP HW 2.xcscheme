@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00108B8D1F6E12BE00E41204"
-               BuildableName = "OOP HW 2"
-               BlueprintName = "OOP HW 2"
-               ReferencedContainer = "container:OOP HW 2.xcodeproj">
+               BuildableName = "homework2"
+               BlueprintName = "homework2"
+               ReferencedContainer = "container:homework2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,30 +26,26 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <Testables>
-      </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "00108B8D1F6E12BE00E41204"
-            BuildableName = "OOP HW 2"
-            BlueprintName = "OOP HW 2"
-            ReferencedContainer = "container:OOP HW 2.xcodeproj">
+            BuildableName = "homework2"
+            BlueprintName = "homework2"
+            ReferencedContainer = "container:homework2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
+      <Testables>
+      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/cindylee/Documents/OOP Coding/OOP HW 2/OOP HW 2"
+      customWorkingDirectory = "/Users/cindylee/Documents/GitHub/Object-Oriented-CS2124/homework2/homework2"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -59,13 +55,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "00108B8D1F6E12BE00E41204"
-            BuildableName = "OOP HW 2"
-            BlueprintName = "OOP HW 2"
-            ReferencedContainer = "container:OOP HW 2.xcodeproj">
+            BuildableName = "homework2"
+            BlueprintName = "homework2"
+            ReferencedContainer = "container:homework2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -78,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "00108B8D1F6E12BE00E41204"
-            BuildableName = "OOP HW 2"
-            BlueprintName = "OOP HW 2"
-            ReferencedContainer = "container:OOP HW 2.xcodeproj">
+            BuildableName = "homework2"
+            BlueprintName = "homework2"
+            ReferencedContainer = "container:homework2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
